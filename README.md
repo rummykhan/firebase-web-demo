@@ -19,3 +19,6 @@ Create your firebase account at <a href="https://firebase.google.com/">https://f
 ```bash
 php -S localhost:1212
 ```
+
+### References
+- Youtube Channel <a href="https://www.youtube.com/playlist?list=PLl-K7zZEsYLmnJ_FpMOZgyg6XcIGBu2OX">https://www.youtube.com/playlist?list=PLl-K7zZEsYLmnJ_FpMOZgyg6XcIGBu2OX</a>
